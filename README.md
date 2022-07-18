@@ -1,4 +1,4 @@
-# Breast-Cancer-Incidence
+# Breast-Cancer-Classification
 
 ## About the Project
 ### Data Used
