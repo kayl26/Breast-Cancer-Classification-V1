@@ -20,7 +20,7 @@
 3. Run all the code in the file with no issues being displayed.
 
 ### Performance Parameters
-
+Receiver Operating Characteristic (ROC) curves were plotted for each set of model predictions to compare performance. The ROC curve is used to plot the true positive versus the false positive rates to illustrate the sensitivity of the model. An ROC curve that is closer to the top left corner indicates that the model is doing better at classifying data into the appropriate categories.
 
 ### Licenses
 To create the code for this project we used Jupyter Notebooks from Wilfrid Laurier's domain which can be accessed [here](https://wlu.syzygy.ca).
