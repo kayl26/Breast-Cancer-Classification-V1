@@ -19,6 +19,9 @@
 2. Open Jupyter Notebooks and upload these two files in the same directory.
 3. Run all the code in the file with no issues being displayed.
 
+### Performance Parameters
+
+
 ### Licenses
 To create the code for this project we used Jupyter Notebooks from Wilfrid Laurier's domain which can be accessed [here](https://wlu.syzygy.ca).
 To access, need to log in with Laurier credentials in order to use the website's functions 
