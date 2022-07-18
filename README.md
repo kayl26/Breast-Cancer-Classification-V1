@@ -14,18 +14,11 @@
 
 ### Conclusions
 
-## How to Run the Code
+### Installation & Execution
 1. Download both the .ipynb and the .data files from this repository.
 2. Open Jupyter Notebooks and upload these two files in the same directory.
-3. Should be able to run all the code in the file with no issues being displayed.
-
-### Installation 
-To create the code for this project we used Jupyter Notebooks which can be accessed [here](https://wlu.syzygy.ca).
-You would need to put in your Laurier credentials in order to use the website's functions 
-
-### Execution
-
-
+3. Run all the code in the file with no issues being displayed.
 
 ### Licenses
-
+To create the code for this project we used Jupyter Notebooks from Wilfrid Laurier's domain which can be accessed [here](https://wlu.syzygy.ca).
+To access, need to log in with Laurier credentials in order to use the website's functions 
