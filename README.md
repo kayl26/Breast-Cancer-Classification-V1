@@ -7,12 +7,16 @@
   - Elter, M., & Schulz-Wendtland, D. R. (n.d.). Mammographic Mass Data Set. UCI Machine Learning Repository: Mammographic mass data set. Retrieved July 17, 2022, from https://archive.ics.uci.edu/ml/datasets/mammographic+mass
 
 ### Short Description
+Breast cancer accounts for 14% of all cancer deaths in Canada but can be successfully treated if detected early. Mammograms check for the presence of unusual masses in the breast, and doctors use these results to recommend whether further tests are required. Current assessment approaches are not very effective, resulting in a large number of unnecessary procedures. 
 
 ### Objectives
+The purpose of this project is to use machine learning models to predict the possibility of breast cancer based on the attributes from patients’ mammogram results. Creating a reliable prediction model will help detect the cancer in the earlier stages and reduce the need for unnecessary invasive procedures. 
 
 ### Results
+The results indicated that each of the models outperformed the BI-RADS assessment with respect to accuracy and precision, and greatly reduced the proportion of cases incorrectly classified as malignant.
 
 ### Conclusions
+Machine learning methods appear to outperform BI-RADS assessment in successfully classifying mammogram masses as benign or malignant. Improvements can be made with more data, grouping models, or exploring other classification models (ex. Random Forests, Support Vector Machines, Neural Networks..etc)
 
 ### Installation & Execution
 1. Download both the .ipynb and the .data files from this repository.
